@@ -1,4 +1,4 @@
-# cheatsheet for common git commands
+# Some common git commands
 
 ## Squash 2 commits
 
